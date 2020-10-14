@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4df1194a-2efe-457a-b72a-6670c6481073" name="Default Changelist" comment="" />
+    <list default="true" id="4df1194a-2efe-457a-b72a-6670c6481073" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webb.html" beforeDir="false" afterPath="$PROJECT_DIR$/webb.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fuyGC6HgXc0AK4BgAtiTJgh10z" />
   <component name="ProjectViewState">
@@ -65,12 +71,16 @@
       <workItem from="1602495082353" duration="156000" />
       <workItem from="1602495249580" duration="69000" />
       <workItem from="1602495330881" duration="9000" />
-      <workItem from="1602495358915" duration="2707000" />
+      <workItem from="1602495358915" duration="3646000" />
+      <workItem from="1602656801151" duration="2888000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1597084443847">
